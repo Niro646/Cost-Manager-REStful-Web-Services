@@ -1,6 +1,6 @@
 As part of the "Server Side" course, we were asked to build a website that simulates managing financial expenses. It is possible to add new products and check the total expenses by month and year.
 
-[Click here](https://cost-manager-restful-web-services-niro646.onrender.com) to check it out Yourself.
+[use this link](https://cost-manager-restful-web-services-niro646.onrender.com) to check it out Yourself.
 
 <h2>🛠️ Languages I used:</h2>
 
