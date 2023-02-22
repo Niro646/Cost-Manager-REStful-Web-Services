@@ -22,7 +22,7 @@ try{
         useUnifiedTopology: true,
     }
 
-    mongoose.connect('mongodb+srv://maor:pass@cluster0.kq68toy.mongodb.net/mongodb?retryWrites=true&w=majority'
+    mongoose.connect('mongodb+srv://maor:D2eXVWUEvIyGGSUz@cluster0.kq68toy.mongodb.net/mongodb?retryWrites=true&w=majority'
         ,connectionParams);
     const db = mongoose.connection;
     db.on('error', () => {console.log('error connect to the server- please check your internet connection')});
