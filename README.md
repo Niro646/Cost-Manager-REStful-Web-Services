@@ -2,7 +2,7 @@ As part of the "Server Side" course, we were asked to build a website that simul
 
 [use this link](https://cost-manager-restful-web-services-niro646.onrender.com) to check it out Yourself.
 
-<h2>🛠️ Languages I used:</h2>
+<h2>🛠️ Tools I used:</h2>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
